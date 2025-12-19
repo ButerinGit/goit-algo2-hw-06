@@ -1,0 +1,21 @@
+# Віртуальне оточення
+venv/
+
+# Кеші Python
+__pycache__/
+*.pyc
+*.pyo
+*.pydgit
+*.pytest_cache/
+
+# IDE / редактори
+.vscode/
+.idea/
+
+# Логи та великі файли
+*.log
+lms-stage-access.log
+
+# Системні файли
+.DS_Store
+Thumbs.db
